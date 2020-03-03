@@ -34,7 +34,7 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
 
   En el siguiente punto se pretende exponer una traza de los pasos que se han ido realizando durante el experimento, así como la sprimeras impresiones, experiencias y dificultades encontradas por el propio usuario.
 
-  #### PRIMERAS IMPRESIONES: 
+  #### Primeras impresiones: 
    
     Lo primero que experimenta el usuario es una ralentización del sistema de  
     búsqueda al que está habituado, ya que es la primera toma de contacto con 
@@ -52,7 +52,7 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
 
    
 
-  #### ***en la web de la ULL:***
+  #### ***En la web de la ULL:***
   - en esta como en muchas otras páginas hay partes en las que el asistente de 
     voz habla de una manera muy prolongada. 
   - en español no pronuncia lo escrito en inglés y viceversa según la situación, 
@@ -89,7 +89,7 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
      medida su tiempo de búsqueda, más aún si la web no ha sido completamente y 
      correctamente adaptada en términos de usabilidad y accesibilidad.
 
-### 3. **cuanto se puede tardar en hacer las tareas propuestas y que problemas han ocasionado**
+### 3. **Cuánto se puede tardar en hacer las tareas propuestas y que problemas han ocasionado**
   
   
   - consultar calendario:
@@ -117,6 +117,6 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
 
 ### 4. **Más problemas de disfuncionalidad**
 
-### 5. **conclusiones del experimento**
+### 5. **Conclusiones del experimento**
 
-### 6. **resumen del seminario**
+### 6. **Resumen del seminario**
