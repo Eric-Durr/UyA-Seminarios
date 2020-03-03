@@ -3,7 +3,7 @@
 
 ***
 
-1. **Cómo se usa el ChromeVox + en qué métodos se basa**
+1. **Cómo se usa el ChromeVox + en qué métodos se basa +  lo mismo para Lynx**
 
 2. **Experiencia disfuncional y problemas + comparación con la realidad + tipos de disfuncionalidad y qué herramientas usan**
 
@@ -21,6 +21,12 @@
    > - algunos símbolos no tienen un nombre concreto y pierde al usuario (la x al buscar).
    > - si la herramienta no está en el idioma de la web no se adapta más allá del español.
    > - En el protal de servicios se queda en bucle sin bajar al selector del alumnado (FALLO enorme)
+
+   - Al seleccionar la lupa de búsqueda, no permite una entrada de texto directa
+   - Debido al inmenso contenido de la web, el usuario se agota 
+   - El calendario se encuentra en un apartado que, de forma no visual, seria muy     
+     complicado llegar.
+   - Después de escuchar muchos datos de la tabla, el usuario pierde la concentración.
    
 
 3. **cuanto se puede tardar en hacer estas operaciones + problemas encontrados por el camino**
