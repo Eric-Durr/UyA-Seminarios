@@ -12,7 +12,7 @@ Es simple a la vez que su uso es sencillo, no es difícil de aprender a utilizar
 Por otro lado, nos encontramos con el navegador web Lynx, que a diferencia de los más populares este es usado en terminales. Su simplicidad permite que un lector de pantalla trabaje sobre el navegador, convirtiéndolo en una opción para usuarios con problemas de visión. De forma similar a como se usa la extensión de ChromeVox, mediante las flechas del teclado, podemos ir navegando por los diferentes elementos que nos encontramos dentro de una página web de manera muy simplicificada, ya que se nos muestra sin imagenes ni otros elementos meramente estéticos.
 
 
-2. **Experiencia disfuncional y problemas + comparación con la realidad + tipos de disfuncionalidad y qué herramientas usan**
+2. **Experiencia disfuncional y problemas + comparación con la realidad**
 
   En el siguiente punto se pretende exponer una traza de los pasos que se han ido realizando durante el experimento, así como la sprimeras impresiones, experiencias y dificultades encontradas por el propio usuario.
 
@@ -56,7 +56,13 @@ Por otro lado, nos encontramos con el navegador web Lynx, que a diferencia de lo
   
   #### Reflexiones acerca de los casos reales.
 
-    > 
+    > En un caso de alguna persona disfuncional que requiera de este tipo de 
+    > herramientas por el hecho de que su visión le impida operar de manera común 
+    > resulta de un incremento del uso, sin embargo para una persona que 
+    > recientemente se encuentre padeciendo una minusvalía que lo haga necesitar de 
+    > estos medios va a tener que sortear un obstáculo que va a ralentizar en gran 
+    > medida su tiempo de búsqueda, más aún si la web no ha sido completamente y 
+    > correctamente adaptada en términos de usabilidad y accesibilidad.
 
 3. **cuanto se puede tardar en hacer estas operaciones + problemas encontrados por el camino**
   
