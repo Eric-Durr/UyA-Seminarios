@@ -121,7 +121,7 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
   
   Como ha sido detallado a lo largo de este documento, se ha comprobado
   que la extensión que brinda Google Chrome, además del explorador de terminal Lynx,
-  son unas herramienta muy útiles para aquellos usuarios con disfucionalidad que precisen 
+  son unas herramienta muy útiles para aquellos usuarios con disfucionalidad que precisen
   de un dictado con el que poder navegar por las diferentes webs o, en el caso de Lynx
   para aquellas personas que les sea de utilidad por su sencillez de diseño y colores.
   Sin embargo, a la hora de usar esta herramienta se ha comprobado que, su puesta en práctica
