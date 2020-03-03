@@ -161,8 +161,26 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
 > simulación acorde a la disfuncionalidad que se pretende experimentar.
 
   ***Personas con Trastorno de Déficit de Atención e Hiperactividad:***
-  > El TDAH es un trastorno de origen neurobiológico que se caracteriza por déficit de atención, impulsividad, y/o hiperactividad excesiva.
-  > Se calcula que el TDAH se manifiesta en niños y adolescentes entre 6 y 17 años en un 5% de la población.
+  > El TDAH es un trastorno de origen neurobiológico que se caracteriza por déficit
+  > de atención, impulsividad, y/o hiperactividad excesiva.
+  >
+  > Se calcula que el TDAH se manifiesta en niños y adolescentes entre 6 y 17 años en
+  > un 5% de la población. A la hora de usar entornos web este efecto es
+  > principalmente peligroso cuando se requiere de tareas e interacciones que pueden
+  > afectar a la persona que emplea la página web. Por ejemplo un entrono virtual o
+  > simplemente una lectura puede tardar mucho más de lo esperado o ser mal entendida
+  > por el efecto de este trastorno.
+  >  
+  > El TDAH es un efecto que puede manifestarse de manera tardía cuando el individuo
+  > empieza a tomar hábitos propios del uso moderno de las tecnologías de la
+  > información. Todos los usuarios que se exceden en gran medida en el uso de
+  > dispositivos y tecnologías de comunicación e información son sensibles a
+  > desarrollar este tipo de trastornos.
+  >  
+  > La  página de misunderstood minds trata de ofrecer una forma de simular estos
+  > efectos, de manera que se pueda experimentar las disfuncionalidades con el
+  > objetivo de preparar los sitios web y herramientas para que los usuarios que
+  > padezcan TDAH puedan disfrutar de una interacción más adecuada a su contexto.
 
 ### 5. **Conclusiones del experimento**
   
