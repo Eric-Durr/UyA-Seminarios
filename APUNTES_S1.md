@@ -3,16 +3,34 @@
 
 ***
 
-1. **Cómo se usa el ChromeVox + en qué métodos se basa +  lo mismo para Lynx**
+1. **Breve introducción a las herramientas ChromeVox y Lynx**
 
-El lector de pantalla ChromeVox es una extensión de Google Chrome que facilita a personas con dificultad visual una mejor experiencia web. Éste está diseñado para aceptar tecnologías web como son HTML5, CSS y JavaScript.
+El lector de pantalla ChromeVox es una extensión de Google Chrome que facilita a 
+personas con dificultad visual una mejor experiencia web. Éste está diseñado para 
+aceptar tecnologías web como son HTML5, CSS y JavaScript.
 
-Es simple a la vez que su uso es sencillo, no es difícil de aprender a utilizar. Chrome Vox se basa en reproducir con una voz artificial varias de las acciones que realiza el usuario, como puede ser abrir una pestaña nueva, escribir en el teclado o navegar por un menú. Esto es posible dictando de forma lineal saltando entre bloques, objetos, frases, palabras o caracteres de palabras. Al usuario se le facilitará el uso mediante atajos de teclado que mejorarán la experiencia del mismo. 
+Es simple a la vez que su uso es sencillo, no es difícil de aprender a utilizar. 
+Chrome Vox se basa en reproducir, con una voz artificial ,varias de las acciones que 
+realiza el usuario; como puede ser abrir una pestaña nueva, escribir en el teclado o 
+navegar por un menú. Esto es posible dictando de forma lineal saltando entre bloques, 
+objetos, frases, palabras o caracteres de palabras. Al usuario se le facilitará el 
+uso mediante atajos de teclado que mejorarán la experiencia del mismo. 
 
-Por otro lado, nos encontramos con el navegador web Lynx, que a diferencia de los más populares este es usado en terminales. Su simplicidad permite que un lector de pantalla trabaje sobre el navegador, convirtiéndolo en una opción para usuarios con problemas de visión. De forma similar a como se usa la extensión de ChromeVox, mediante las flechas del teclado, podemos ir navegando por los diferentes elementos que nos encontramos dentro de una página web de manera muy simplicificada, ya que se nos muestra sin imagenes ni otros elementos meramente estéticos.
+Por otro lado, nos encontramos con el navegador web Lynx, que a diferencia de los más 
+populares este es usado en terminales. Su simplicidad permite que un lector de 
+pantalla trabaje sobre el navegador, convirtiéndolo en una opción para usuarios con 
+problemas de visión. De forma similar a como se usa la extensión de ChromeVox, 
+mediante las flechas del teclado, podemos ir navegando por los diferentes elementos 
+que nos encontramos dentro de una página web de manera muy simplicificada, ya que se 
+nos muestra sin imagenes ni otros elementos meramente estéticos.
+
+El objetivo final del uso de estas herramientas en nuestro experimento es situarnos 
+del lado del usuario que requiere de dichas herramientas emulando una 
+disfuncionalidad visual. A partir de esto se determinarán unas conclusiones fruto de 
+observar tanto las dificultades como las virtudes de esta clase de herramientas.
 
 
-### 2. **Experiencia disfuncional y problemas + comparación con la realidad**
+### 2. **Experiencia disfuncional y problemas experimentados**
 
   En el siguiente punto se pretende exponer una traza de los pasos que se han ido realizando durante el experimento, así como la sprimeras impresiones, experiencias y dificultades encontradas por el propio usuario.
 
@@ -50,7 +68,7 @@ Por otro lado, nos encontramos con el navegador web Lynx, que a diferencia de lo
   - En el portal de servicios se queda en bucle sin bajar al selector del 
     alumnado. Impidiendo de esta manera la correcta navegación del usuario.
 
-  #### ***ALGUNOS PROBLEMAS DURANTE LA INTERACCIÓN:***
+  #### ***Algunos problemas durante la interacción:***
   - Al seleccionar la "lupa de búsqueda", no permite una entrada de texto directa
   - Debido al inmenso contenido de la web, el usuario se agota  antes de llegar a 
     su objetivo.
