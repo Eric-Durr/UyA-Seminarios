@@ -123,24 +123,39 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
   la necesidad de documentar y consensuar la manera de facilitar el uso a aquellas
   personas que se ven más impedidas por una condición física o mental.
 
-- ***Personas con daltonismo:***  
-  Muchos usuarios a lo largo de internet son afectados por algún tipo de daltonismo
-  (aproximadamamente 1 de cada 20). En resumen consiste en la incapacidad para ver o
-  distinguir determinados colores, confundiendo estos con otros o en los casos más
-  extremos viendo solo uno con distintas tonalidades. Esto por razones obvias podría
-  concluir en no identificar algunos elementos, confundirlos o incluso que sean
-  ocultos para determinados usuarios que padezcan esta disfuncionalidad.
+-***Personas con daltonismo:***  
+> Muchos usuarios a lo largo de internet son afectados por algún tipo de daltonismo
+> (aproximadamamente 1 de cada 20). En resumen consiste en la incapacidad para ver o
+> distinguir determinados colores, confundiendo estos con otros o en los casos más
+> extremos viendo solo uno con distintas tonalidades. Esto por razones obvias podría
+> concluir en no identificar algunos elementos, confundirlos o incluso que sean
+> ocultos para determinados usuarios que padezcan esta disfuncionalidad.
+>
+> [Vischeck](http://www.vischeck.com/vischeck/) se encarga de plantear un escenario
+> donde poder visualizar una imagen tal y como lo vería un daltónico. Es un programa
+> que manipula el color de las imágenes para tornarla en el efecto que padecería
+> algún tipo de daltónico. Pretende emular todo el proceso de la visión humana.
+>
+> También hay numerosos test, en entornos web, que pretenden hacer un análisis sobre
+> qué tipo de daltonismo y en qué grado podrías estar padeciendo. Tal como es el caso
+> del [test de daltonismo de EnChroma](https://enchroma.com/pages/test).
 
-  [Vischeck](http://www.vischeck.com/vischeck/) se encarga de plantear un escenario
-  donde poder visualizar una imagen tal y como lo vería un daltónico. Es un programa
-  que manipula el color de las imágenes para tornarla en el efecto que padecería
-  algún tipo de daltónico. Pretende emular todo el proceso de la visión humana.
-
-  También hay numerosos test, en entornos web, que pretenden hacer un análisis sobre
-  qué tipo de daltonismo y en qué grado podrías estar padeciendo. Tal como es el caso
-  del [test de daltonismo de EnChroma](https://enchroma.com/pages/test).
-
--
+-***Personas con dificultades de visión moderadas***
+> En esta categoría entrarían aquellas disfuncionalidades que impiden la visión pero
+> están más bien relacionadas con un aspecto disfuncional cognitivo, ya que muchos
+> de ellos peden ver bien pero con un cambio que impide la correcta fluidez del
+> proceso. En este grupo incluimos a los disléxicos, los disfuncionales por baja
+> visión o aquellas personas que pueden sufrir de TDA (Trastorno de Déficit de
+> Atención).
+>  
+> Existen webs diseñadas para el estudio de la usabilidad y accesibilidad de un
+> determinado sitio en cuanto a este tipo de condiciones. Por lo general (al igual
+> que en el apartado anterior) proporcionan una simulación que permite experimentar
+> el grado en el que el usuario es afectado por la disfuncionalidad al usar la web,
+> así como medir y poder implementar herramientas que permitan sobrepasar estas
+> dificultades. Un ejemplo es el que nos brinda la página webaim.org en su ventana
+> de [simulaciones](https://webaim.org/simulations/), donde podremos elegir una
+> simulación acorde a la disfuncionalidad que se pretende experimentar.
 
 ### 5. **Conclusiones del experimento**
 
