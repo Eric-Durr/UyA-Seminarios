@@ -4,8 +4,12 @@
 ***
 
 1. **Cómo se usa el ChromeVox + en qué métodos se basa +  lo mismo para Lynx**
+
 El lector de pantalla ChromeVox es una extensión de Google Chrome que facilita a personas con dificultad visual una mejor experiencia web. Éste está diseñado para aceptar tecnologías web como son HTML5, CSS y JavaScript.
-Es simple a la vez que su uso sencillo, no es difícil de aprender a utilizarlo. Chrome Vox se basa en reproducir con una voz artificial varias de las acciones que realiza el usuario, como puede ser abrir una pestaña nueva, escribir en el teclado o navegar por un menú. Esto es posible dictando de forma lineal saltando entre bloques, objetos, frases, palabras o caracteres de palabras. Al usuario se le facilitará el uso mediante atajos de teclado que mejorarán la experiencia del mismo. 
+
+Es simple a la vez que su uso es sencillo, no es difícil de aprender a utilizar. Chrome Vox se basa en reproducir con una voz artificial varias de las acciones que realiza el usuario, como puede ser abrir una pestaña nueva, escribir en el teclado o navegar por un menú. Esto es posible dictando de forma lineal saltando entre bloques, objetos, frases, palabras o caracteres de palabras. Al usuario se le facilitará el uso mediante atajos de teclado que mejorarán la experiencia del mismo. 
+
+Por otro lado, nos encontramos con el navegador web Lynx, que a diferencia de los más populares este es usado en terminales. Su simplicidad permite que un lector de pantalla trabaje sobre el navegador, convirtiéndolo en una opción para usuarios con problemas de visión. De forma similar a como se usa la extensión de ChromeVox, mediante las flechas del teclado, podemos ir navegando por los diferentes elementos que nos encontramos dentro de una página web de manera muy simplicificada, ya que se nos muestra sin imagenes ni otros elementos meramente estéticos.
 
 
 2. **Experiencia disfuncional y problemas + comparación con la realidad + tipos de disfuncionalidad y qué herramientas usan**
