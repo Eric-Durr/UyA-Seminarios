@@ -18,12 +18,19 @@ Por otro lado, nos encontramos con el navegador web Lynx, que a diferencia de lo
 
   #### PRIMERAS IMPRESIONES: 
    
-    Lo primero que experimenta el usuario es una ralentización del sistema de búsqueda al que está habituado, ya que es la primera toma de contacto con 
+    Lo primero que experimenta el usuario es una ralentización del sistema de  
+    búsqueda al que está habituado, ya que es la primera toma de contacto con 
     una herrmienta preparada para una disfuncionalidad.
 
-    La sensación que aborda a nuestro usuario es la de impedimento, requiere un largo proceso de costumbre a la herramienta. Este escenario se combina con un movimiento nada intuitivo y con que la voz, en algunas ocasiones, falla las traducciones o que sencillamente habla de manera ininteligible y demasiado prolongada como para retener la información necesaria a la exploración.
+    La sensación que aborda a nuestro usuario es la de impedimento, requiere un largo 
+    proceso de costumbre a la herramienta. Este escenario se combina con un 
+    movimiento nada intuitivo y con que la voz, en algunas ocasiones, falla las 
+    traducciones o que sencillamente habla de manera ininteligible y demasiado 
+    prolongada como para retener la información necesaria a la exploración.
 
-    Sin embargo está la ventaja detectada de que, si está bien estructurado, genera una buena imagen mental, así como en las areas de texto informa de las letras escritas.
+    Sin embargo está la ventaja detectada de que, si está bien estructurado, genera 
+    una buena imagen mental, así como en las areas de texto informa de las letras 
+    escritas.
 
    
 
