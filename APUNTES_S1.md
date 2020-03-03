@@ -160,6 +160,24 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
 > de [simulaciones](https://webaim.org/simulations/), donde podremos elegir una
 > simulación acorde a la disfuncionalidad que se pretende experimentar.
 
+
+  ***Personas con Trastorno de Déficit de Atención e Hiperactividad:***
+  > El TDAH es un trastorno de origen neurobiológico que se caracteriza por déficit de atención, impulsividad, y/o hiperactividad excesiva.
+  > Se calcula que el TDAH se manifiesta en niños y adolescentes entre 6 y 17 años en un 5% de la población. 
+   
 ### 5. **Conclusiones del experimento**
+  
+  Como ha sido detallado a lo largo de este documento, se ha comprobado
+  que la extensión que brinda Google Chrome, además del explorador de terminal Lynx,
+  son unas herramienta muy útiles para aquellos usuarios con disfucionalidad que precisen 
+  de un dictado con el que poder navegar por las diferentes webs o, en el caso de Lynx
+  para aquellas personas que les sea de utilidad por su sencillez de diseño y colores.
+  Sin embargo, a la hora de usar esta herramienta se ha comprobado que, su puesta en práctica
+  podría dificultarse más de lo esperado. Para un usuario que no está realmente familiarizado con
+  el entorno, la primera toma de contacto se le puede hacer una ardua tarea. Principalmente 
+  esto viene motivado por dos cuestiones; por un lado la extensión ChromeVox puede resultar
+  algo intrincada, además de que gran parte de las webs no se encuentran adaptadas apropiadamente al
+  manejo de esta extensión. Es decir, un diseño más sencillo y la síntesis de información podría 
+  mejorar significamente el uso de la misma.
 
 ### 6. **Resumen del seminario (TLDR)**
