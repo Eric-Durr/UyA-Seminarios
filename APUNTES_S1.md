@@ -28,41 +28,41 @@ Por otro lado, nos encontramos con el navegador web Lynx, que a diferencia de lo
    
 
   #### ***en la web de la ULL:***
-    > - en esta como en muchas otras páginas hay partes en las que el asistente de 
-    >   voz habla de una manera muy prolongada. 
-    > - en español no pronuncia lo escrito en inglés y viceversa según la situación, 
-    >   las ñ no las pronuncia, en muchas ocasiones.
-    > - empezando a usar la página la web sitúa al usuario en una parte concreta que 
-    >   no es el inicio, generando así una situación de desconcierto al usuario 
-    >   disfuncional.
-    > - algunos símbolos no tienen un nombre concreto y pierde al usuario, leyendo  
-    >   una imagen que no corresponde al uso final del elemento. (la "x" en el menú 
-    >   de búsqueda.
-    > - si la herramienta no está en el idioma de la web no se adapta más allá del 
-    >   español (mucho más común en Sistemas Operativos UNIX).
-    > - En el portal de servicios se queda en bucle sin bajar al selector del 
-    >   alumnado. Impidiendo de esta manera la correcta navegación del usuario.
+     - en esta como en muchas otras páginas hay partes en las que el asistente de 
+       voz habla de una manera muy prolongada. 
+     - en español no pronuncia lo escrito en inglés y viceversa según la situación, 
+       las ñ no las pronuncia, en muchas ocasiones.
+     - empezando a usar la página la web sitúa al usuario en una parte concreta que 
+       no es el inicio, generando así una situación de desconcierto al usuario 
+       disfuncional.
+     - algunos símbolos no tienen un nombre concreto y pierde al usuario, leyendo  
+       una imagen que no corresponde al uso final del elemento. (la "x" en el menú 
+       de búsqueda.
+     - si la herramienta no está en el idioma de la web no se adapta más allá del 
+       español (mucho más común en Sistemas Operativos UNIX).
+     - En el portal de servicios se queda en bucle sin bajar al selector del 
+       alumnado. Impidiendo de esta manera la correcta navegación del usuario.
 
   #### ***ALGUNOS PROBLEMAS DURANTE LA INTERACCIÓN:***
-    > - Al seleccionar la "lupa de búsqueda", no permite una entrada de texto directa
-    > - Debido al inmenso contenido de la web, el usuario se agota  antes de llegar a 
-    >   su objetivo.
-    > - El calendario se encuentra en un apartado que, de forma no visual, seria      
-    >   muy complicado llegar.
-    > - Después de escuchar muchos datos de la tabla, el usuario pierde la  
-    >   concentración.
-    >   dependiendo del sistema operativo no funciona correctamente.  
-    >   (en Ubuntu concretamente)
+     - Al seleccionar la "lupa de búsqueda", no permite una entrada de texto directa
+     - Debido al inmenso contenido de la web, el usuario se agota  antes de llegar a 
+       su objetivo.
+     - El calendario se encuentra en un apartado que, de forma no visual, seria      
+       muy complicado llegar.
+     - Después de escuchar muchos datos de la tabla, el usuario pierde la  
+       concentración.
+       dependiendo del sistema operativo no funciona correctamente.  
+       (en Ubuntu concretamente)
   
   #### Reflexiones acerca de los casos reales.
 
-    > En un caso de alguna persona disfuncional que requiera de este tipo de 
-    > herramientas por el hecho de que su visión le impida operar de manera común 
-    > resulta de un incremento del uso, sin embargo para una persona que 
-    > recientemente se encuentre padeciendo una minusvalía que lo haga necesitar de 
-    > estos medios va a tener que sortear un obstáculo que va a ralentizar en gran 
-    > medida su tiempo de búsqueda, más aún si la web no ha sido completamente y 
-    > correctamente adaptada en términos de usabilidad y accesibilidad.
+     En un caso de alguna persona disfuncional que requiera de este tipo de 
+     herramientas por el hecho de que su visión le impida operar de manera común 
+     resulta de un incremento del uso, sin embargo para una persona que 
+     recientemente se encuentre padeciendo una minusvalía que lo haga necesitar de 
+     estos medios va a tener que sortear un obstáculo que va a ralentizar en gran 
+     medida su tiempo de búsqueda, más aún si la web no ha sido completamente y 
+     correctamente adaptada en términos de usabilidad y accesibilidad.
 
 3. **cuanto se puede tardar en hacer estas operaciones + problemas encontrados por el camino**
   
