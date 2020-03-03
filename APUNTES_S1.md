@@ -55,4 +55,4 @@
 
 5. **conclusiones del experimento**
 
-6. **conclusiones**
+6. **resumen del seminario**
