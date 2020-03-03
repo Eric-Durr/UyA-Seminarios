@@ -50,8 +50,6 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
     una buena imagen mental, así como en las areas de texto informa de las letras 
     escritas.
 
-   
-
   #### ***En la web de la ULL:***
   - en esta como en muchas otras páginas hay partes en las que el asistente de 
     voz habla de una manera muy prolongada. 
@@ -91,32 +89,57 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
 
 ### 3. **Cuánto se puede tardar en hacer las tareas propuestas y que problemas han ocasionado**
   
+- consultar calendario:
   
-  - consultar calendario:
   > El usuario tras 10 minutos dando vueltas, por poca intuición en la navegación ha 
   > conlcuido en que no ha sido posible encontrarlo
   
-  - búsqueda de horarios de asignatura usabilidad:
+- búsqueda de horarios de asignatura usabilidad:
   > El usuario consiguió llegar al calendario tras 12 minutos de exploración
   
-  - inicio trámites de matriculación:
-  
-  > Hay muchas opciones que podrían confundirse con el objetivo, y que los nombres 
+- inicio trámites de matriculación:
+  > Hay muchas opciones que podrían confundirse con el objetivo, y que los nombres
   > son muy similares.
-  > No deja entrar en la pestaña servicios así como en otras pestañas similares, 
+  > No deja entrar en la pestaña servicios así como en otras pestañas similares,
   > sobre todo en los desplegables.
-  > Concluye aquí el intento de buscar el inicio de los trámites 
+  > Concluye aquí el intento de buscar el inicio de los  
+  > trámites.
   
-  
-  - notas del cuatrimestre
-  >  A la hora de buscar las notas del cuatrimestre, mediante el portal del alumnado, 
-  >  nos encontramos con un impedimento en la programación donde no se contempla el 
-  >  uso mediante la navegación por tabulador. Se bloquea al usuario en las mismas 3 
-  >  pestañas sin dar ninguna información, lo cual puede ser desconcertante para 
+- notas del cuatrimestre
+  >  A la hora de buscar las notas del cuatrimestre, mediante el portal del alumnado,
+  >  nos encontramos con un impedimento en la programación donde no se contempla el
+  >  uso mediante la navegación por tabulador. Se bloquea al usuario en las mismas 3
+  >  pestañas sin dar ninguna información, lo cual puede ser desconcertante para
   >  nuestro usuario disfuncional.
 
-### 4. **Más problemas de disfuncionalidad**
+### 4. **Diferentes problemas y puntos a tener en cuenta respecto a las disfuncionalidades en la web**
+
+  Existen múltiples causas por las que un usuario puede presentar disfuncionalidades
+  ante el uso de una aplicación o página web. Cada una de las que se han podido
+  registrar, en términos generales suele venir acompañada de una herramienta
+  específica que se ha diseñado para la misma. Dada la variedad de las
+  disfuncionalidades y la complejidad de muchas páginas web; aplicar la usabilidad y
+  accesibilidad para cubrir las disfuncionalidades se hace una ardua tarea. De aquí
+  la necesidad de documentar y consensuar la manera de facilitar el uso a aquellas
+  personas que se ven más impedidas por una condición física o mental.
+
+- Personas con daltonismo:  
+  Muchos usuarios a lo largo de internet son afectados por algún tipo de daltonismo
+  (aproximadamamente 1 de cada 20). En resumen consiste en la incapacidad para ver o
+  distinguir determinados colores, confundiendo estos con otros o en los casos más
+  extremos viendo solo uno con distintas tonalidades. Esto por razones obvias podría
+  concluir en no identificar algunos elementos, confundirlos o incluso que sean
+  ocultos para determinados usuarios que padezcan esta disfuncionalidad.
+
+  [Vischeck](http://www.vischeck.com/vischeck/) se encarga de plantear un escenario
+  donde poder visualizar una imagen tal y como lo vería un daltónico. Es un programa
+  que manipula el color de las imágenes para tornarla en el efecto que padecería
+  algún tipo de daltónico. Pretende emular todo el proceso de la visión humana.
+
+  También hay numerosos test, en entornos web, que pretenden hacer un análisis sobre
+  qué tipo de daltonismo y en qué grado podrías estar padeciendo. Tal como es el caso
+  del [test de daltonismo de EnChroma](https://enchroma.com/pages/test).
 
 ### 5. **Conclusiones del experimento**
 
-### 6. **Resumen del seminario**
+### 6. **Resumen del seminario (TLDR)**
