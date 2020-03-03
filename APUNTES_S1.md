@@ -32,7 +32,7 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
 
 ### 2. **Experiencia disfuncional y problemas experimentados**
 
-  En el siguiente punto se pretende exponer una traza de los pasos que se han ido realizando durante el experimento, así como la sprimeras impresiones, experiencias y dificultades encontradas por el propio usuario.
+  En el siguiente punto se pretende exponer una traza de los pasos que se han ido realizando durante el experimento, así como las primeras impresiones, experiencias y dificultades encontradas por el propio usuario.
 
   #### Primeras impresiones: 
    
@@ -57,7 +57,7 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
     voz habla de una manera muy prolongada. 
   - en español no pronuncia lo escrito en inglés y viceversa según la situación, 
     las ñ no las pronuncia, en muchas ocasiones.
-  - empezando a usar la página la web sitúa al usuario en una parte concreta que 
+  - empezando a usar la página web sitúa al usuario en una parte concreta que 
     no es el inicio, generando así una situación de desconcierto al usuario 
     disfuncional.
   - algunos símbolos no tienen un nombre concreto y pierde al usuario, leyendo  
