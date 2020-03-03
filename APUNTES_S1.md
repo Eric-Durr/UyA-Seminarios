@@ -124,11 +124,10 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
   son unas herramienta muy útiles para aquellos usuarios con disfucionalidad que precisen 
   de un dictado con el que poder navegar por las diferentes webs o, en el caso de Lynx
   para aquellas personas que les sea de utilidad por su sencillez de diseño y colores.
-  
   Sin embargo, a la hora de usar esta herramienta se ha comprobado que, su puesta en práctica
   podría dificultarse más de lo esperado. Para un usuario que no está realmente familiarizado con
   el entorno, la primera toma de contacto se le puede hacer una ardua tarea. Principalmente 
-  esto viene motivado por dos principales cuestiones; por un lado la extensión ChromeVox puede resultar
+  esto viene motivado por dos cuestiones; por un lado la extensión ChromeVox puede resultar
   algo intrincada, además de que gran parte de las webs no se encuentran adaptadas apropiadamente al
   manejo de esta extensión. Es decir, un diseño más sencillo y la síntesis de información podría 
   mejorar significamente el uso de la misma.
