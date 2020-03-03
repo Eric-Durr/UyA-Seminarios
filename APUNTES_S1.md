@@ -109,7 +109,7 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
   
   
   - notas del cuatrimestre
-  > A la hora de buscar las notas del cuatrimestre, mediante el portal del alumnado, 
+  >  A la hora de buscar las notas del cuatrimestre, mediante el portal del alumnado, 
   >  nos encontramos con un impedimento en la programación donde no se contempla el 
   >  uso mediante la navegación por tabulador. Se bloquea al usuario en las mismas 3 
   >  pestañas sin dar ninguna información, lo cual puede ser desconcertante para 
