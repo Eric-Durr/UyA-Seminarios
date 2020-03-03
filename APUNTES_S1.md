@@ -48,7 +48,6 @@
   
   - notas del cuatrimestre
   
-  
   > 
 
 4. **Más problemas de disfuncionalidad**
