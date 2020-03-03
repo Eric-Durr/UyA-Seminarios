@@ -7,27 +7,44 @@
 
 2. **Experiencia disfuncional y problemas + comparación con la realidad + tipos de disfuncionalidad y qué herramientas usan**
 
-   > sensación de impedimento, se ralentiza el uso, requiere de costumbre a la herramienta, a veces no se entiende lo que dice la voz,
-   > movimiento poco intuitivo en la página con el teclado, malas traducciones.
-   > dependiendo del sistema operativo no funciona correctamente.  (en Ubuntu concretamente)
+  En el siguiente punto se pretende exponer una traza de los pasos que se han ido realizando durante el experimento, así como la sprimeras impresiones, experiencias y dificultades encontradas por el propio usuario.
+
+  #### PRIMERAS IMPRESIONES: 
    
-   > una ventaja detectada es que la herramienta informa de lo tecleado
+    Lo primero que experimenta el usuario es una ralentización del sistema de búsqueda al que está habituado, ya que es la primera toma de contacto con 
+    una herrmienta preparada para una disfuncionalidad.
 
+    La sensación que aborda a nuestro usuario es la de impedimento, requiere un largo proceso de costumbre a la herramienta. Este escenario se combina con un movimiento nada intuitivo y con que la voz, en algunas ocasiones, falla las traducciones o que sencillamente habla de manera ininteligible y demasiado prolongada como para retener la información necesaria a la exploración.
 
-   > en la web de la ULL:
-   > - en esta como en muchas otras páginas hay  partes  en las que se pone a hablar mucho rato hablando. 
-   > - en español no pronuncia lo escrito en inglés, las ñ no las pronuncia.
-   > - empezando a usar la página la web situúa al usuario en una parte concreta que no es el inicio
-   > - algunos símbolos no tienen un nombre concreto y pierde al usuario (la x al buscar).
-   > - si la herramienta no está en el idioma de la web no se adapta más allá del español.
-   > - En el protal de servicios se queda en bucle sin bajar al selector del alumnado (FALLO enorme)
+    Sin embargo está la ventaja detectada de que, si está bien estructurado, genera una buena imagen mental, así como en las areas de texto informa de las letras escritas.
 
-   - Al seleccionar la lupa de búsqueda, no permite una entrada de texto directa
-   - Debido al inmenso contenido de la web, el usuario se agota 
-   - El calendario se encuentra en un apartado que, de forma no visual, seria muy     
-     complicado llegar.
-   - Después de escuchar muchos datos de la tabla, el usuario pierde la concentración.
    
+
+    - en la web de la ULL:
+    > - en esta como en muchas otras páginas hay partes en las que el asistente de 
+    >   voz habla de una manera muy prolongada. 
+    > - en español no pronuncia lo escrito en inglés y viceversa según la situación, 
+    >   las ñ no las pronuncia, en muchas ocasiones.
+    > - empezando a usar la página la web sitúa al usuario en una parte concreta que 
+    >   no es el inicio, generando así una situación de desconcierto al usuario 
+    >   disfuncional.
+    > - algunos símbolos no tienen un nombre concreto y pierde al usuario, leyendo  
+    >   una imagen que no corresponde al uso final del elemento. (la "x" en el menú 
+    >   de búsqueda.
+    > - si la herramienta no está en el idioma de la web no se adapta más allá del 
+    >   español (mucho más común en Sistemas Operativos UNIX).
+    > - En el portal de servicios se queda en bucle sin bajar al selector del alumnado. Impidiendo de esta manera ek
+
+    - ALGUNOS PROBLEMAS DURANTE LA INTERACCIÓN:
+   > - Al seleccionar la lupa de búsqueda, no permite una entrada de texto directa
+   >   Debido al inmenso contenido de la web, el usuario se agota .
+   > - El calendario se encuentra en un apartado que, de forma no visual, seria      
+   >   muy complicado llegar.
+   > - Después de escuchar muchos datos de la tabla, el usuario pierde la > > 
+   >   concentración.
+   > dependiendo del sistema operativo no funciona correctamente.  (en Ubuntu 
+   > concretamente)
+      
 
 3. **cuanto se puede tardar en hacer estas operaciones + problemas encontrados por el camino**
   
