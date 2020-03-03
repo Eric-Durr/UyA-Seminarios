@@ -160,6 +160,8 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
 
   ***Personas con Trastorno de Déficit de Atención e Hiperactividad:***
   > El TDAH es un trastorno de origen neurobiológico que se caracteriza por déficit de atención, impulsividad, y/o hiperactividad excesiva.
+  > Se calcula que el TDAH se manifiesta en niños y adolescentes entre 6 y 17 años en un 5% de la población. 
+   
 ### 5. **Conclusiones del experimento**
   
   Como ha sido detallado a lo largo de este documento, se ha comprobado
