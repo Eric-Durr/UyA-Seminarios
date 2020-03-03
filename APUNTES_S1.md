@@ -123,7 +123,7 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
   la necesidad de documentar y consensuar la manera de facilitar el uso a aquellas
   personas que se ven más impedidas por una condición física o mental.
 
-- Personas con daltonismo:  
+- ***Personas con daltonismo:***  
   Muchos usuarios a lo largo de internet son afectados por algún tipo de daltonismo
   (aproximadamamente 1 de cada 20). En resumen consiste en la incapacidad para ver o
   distinguir determinados colores, confundiendo estos con otros o en los casos más
@@ -139,6 +139,8 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
   También hay numerosos test, en entornos web, que pretenden hacer un análisis sobre
   qué tipo de daltonismo y en qué grado podrías estar padeciendo. Tal como es el caso
   del [test de daltonismo de EnChroma](https://enchroma.com/pages/test).
+
+-
 
 ### 5. **Conclusiones del experimento**
 
