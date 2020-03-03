@@ -34,8 +34,8 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
 
   En el siguiente punto se pretende exponer una traza de los pasos que se han ido realizando durante el experimento, así como la sprimeras impresiones, experiencias y dificultades encontradas por el propio usuario.
 
-  #### Primeras impresiones: 
-   
+#### Primeras impresiones
+
     Lo primero que experimenta el usuario es una ralentización del sistema de  
     búsqueda al que está habituado, ya que es la primera toma de contacto con 
     una herrmienta preparada para una disfuncionalidad.
@@ -50,34 +50,36 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
     una buena imagen mental, así como en las areas de texto informa de las letras 
     escritas.
 
-  #### ***En la web de la ULL:***
-  - en esta como en muchas otras páginas hay partes en las que el asistente de 
-    voz habla de una manera muy prolongada. 
-  - en español no pronuncia lo escrito en inglés y viceversa según la situación, 
-    las ñ no las pronuncia, en muchas ocasiones.
-  - empezando a usar la página la web sitúa al usuario en una parte concreta que 
-    no es el inicio, generando así una situación de desconcierto al usuario 
-    disfuncional.
-  - algunos símbolos no tienen un nombre concreto y pierde al usuario, leyendo  
-    una imagen que no corresponde al uso final del elemento. (la "x" en el menú 
-    de búsqueda.
-  - si la herramienta no está en el idioma de la web no se adapta más allá del 
-    español (mucho más común en Sistemas Operativos UNIX).
-  - En el portal de servicios se queda en bucle sin bajar al selector del 
-    alumnado. Impidiendo de esta manera la correcta navegación del usuario.
+#### ***En la web de la ULL:***
 
-  #### ***Algunos problemas durante la interacción:***
-  - Al seleccionar la "lupa de búsqueda", no permite una entrada de texto directa
-  - Debido al inmenso contenido de la web, el usuario se agota  antes de llegar a 
-    su objetivo.
-  - El calendario se encuentra en un apartado que, de forma no visual, seria      
-    muy complicado llegar.
-  - Después de escuchar muchos datos de la tabla, el usuario pierde la  
-    concentración.
-    dependiendo del sistema operativo no funciona correctamente.  
-    (en Ubuntu concretamente)
+- en esta como en muchas otras páginas hay partes en las que el asistente de
+  voz habla de una manera muy prolongada.
+- en español no pronuncia lo escrito en inglés y viceversa según la situación,
+  las ñ no las pronuncia, en muchas ocasiones.
+- empezando a usar la página la web sitúa al usuario en una parte concreta que
+  no es el inicio, generando así una situación de desconcierto al usuario
+  disfuncional.
+- algunos símbolos no tienen un nombre concreto y pierde al usuario, leyendo  
+  una imagen que no corresponde al uso final del elemento. (la "x" en el menú
+  de búsqueda.
+- si la herramienta no está en el idioma de la web no se adapta más allá del
+  español (mucho más común en Sistemas Operativos UNIX).
+- En el portal de servicios se queda en bucle sin bajar al selector del
+  alumnado. Impidiendo de esta manera la correcta navegación del usuario.
+
+#### ***Algunos problemas durante la interacción:***
+
+- Al seleccionar la "lupa de búsqueda", no permite una entrada de texto directa
+- Debido al inmenso contenido de la web, el usuario se agota  antes de llegar a
+  su objetivo.
+- El calendario se encuentra en un apartado que, de forma no visual, seria
+  muy complicado llegar.
+- Después de escuchar muchos datos de la tabla, el usuario pierde la  
+  concentración.
+  dependiendo del sistema operativo no funciona correctamente.  
+  (en Ubuntu concretamente)
   
-  #### Reflexiones acerca de los casos reales.
+#### Reflexiones acerca de los casos reales
 
      En un caso de alguna persona disfuncional que requiera de este tipo de 
      herramientas por el hecho de que su visión le impida operar de manera común 
@@ -91,7 +93,7 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
   
 - consultar calendario:
   
-  > El usuario tras 10 minutos dando vueltas, por poca intuición en la navegación ha 
+  > El usuario tras 10 minutos dando vueltas, por poca intuición en la navegación ha
   > conlcuido en que no ha sido posible encontrarlo
   
 - búsqueda de horarios de asignatura usabilidad:
