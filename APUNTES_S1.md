@@ -89,32 +89,31 @@ observar tanto las dificultades como las virtudes de esta clase de herramientas.
      medida su tiempo de búsqueda, más aún si la web no ha sido completamente y 
      correctamente adaptada en términos de usabilidad y accesibilidad.
 
-### 3. **cuanto se puede tardar en hacer estas operaciones + problemas encontrados por el camino**
+### 3. **cuanto se puede tardar en hacer las tareas propuestas y que problemas han ocasionado**
   
   
-  - consultar calendario
+  - consultar calendario:
+  > El usuario tras 10 minutos dando vueltas, por poca intuición en la navegación ha 
+  > conlcuido en que no ha sido posible encontrarlo
   
-  
-  > El usuario tras 10 minutos dando vueltas, por poca intuición en la navegación ha conlcuido en que no ha sido posible encontrarlo
-  
-  
-  - búsqueda de horarios de asignatura usabilidad
-  
-  
+  - búsqueda de horarios de asignatura usabilidad:
   > El usuario consiguió llegar al calendario tras 12 minutos de exploración
   
+  - inicio trámites de matriculación:
   
-  - inicio trámites de matriculación
-  
-  
-  > Hay muchas opciones que podrían confundirse con el objetivo, y que los nombres son muy similares.
-  > No deja entrar en la pestaña servicios así como en otras pestañas similares, sobre todo en los desplegables.
+  > Hay muchas opciones que podrían confundirse con el objetivo, y que los nombres 
+  > son muy similares.
+  > No deja entrar en la pestaña servicios así como en otras pestañas similares, 
+  > sobre todo en los desplegables.
   > Concluye aquí el intento de buscar el inicio de los trámites 
   
   
   - notas del cuatrimestre
-  
-  > 
+  > A la hora de buscar las notas del cuatrimestre, mediante el portal del alumnado, 
+  >  nos encontramos con un impedimento en la programación donde no se contempla el 
+  >  uso mediante la navegación por tabulador. Se bloquea al usuario en las mismas 3 
+  >  pestañas sin dar ninguna información, lo cual puede ser desconcertante para 
+  >  nuestro usuario disfuncional.
 
 ### 4. **Más problemas de disfuncionalidad**
 
