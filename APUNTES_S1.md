@@ -20,7 +20,7 @@
 
    
 
-    - en la web de la ULL:
+  #### ***en la web de la ULL:***
     > - en esta como en muchas otras páginas hay partes en las que el asistente de 
     >   voz habla de una manera muy prolongada. 
     > - en español no pronuncia lo escrito en inglés y viceversa según la situación, 
@@ -33,18 +33,23 @@
     >   de búsqueda.
     > - si la herramienta no está en el idioma de la web no se adapta más allá del 
     >   español (mucho más común en Sistemas Operativos UNIX).
-    > - En el portal de servicios se queda en bucle sin bajar al selector del alumnado. Impidiendo de esta manera ek
+    > - En el portal de servicios se queda en bucle sin bajar al selector del 
+    >   alumnado. Impidiendo de esta manera la correcta navegación del usuario.
 
-    - ALGUNOS PROBLEMAS DURANTE LA INTERACCIÓN:
-   > - Al seleccionar la lupa de búsqueda, no permite una entrada de texto directa
-   >   Debido al inmenso contenido de la web, el usuario se agota .
-   > - El calendario se encuentra en un apartado que, de forma no visual, seria      
-   >   muy complicado llegar.
-   > - Después de escuchar muchos datos de la tabla, el usuario pierde la > > 
-   >   concentración.
-   > dependiendo del sistema operativo no funciona correctamente.  (en Ubuntu 
-   > concretamente)
-      
+  #### ***ALGUNOS PROBLEMAS DURANTE LA INTERACCIÓN:***
+    > - Al seleccionar la "lupa de búsqueda", no permite una entrada de texto directa
+    > - Debido al inmenso contenido de la web, el usuario se agota  antes de llegar a 
+    >   su objetivo.
+    > - El calendario se encuentra en un apartado que, de forma no visual, seria      
+    >   muy complicado llegar.
+    > - Después de escuchar muchos datos de la tabla, el usuario pierde la  
+    >   concentración.
+    >   dependiendo del sistema operativo no funciona correctamente.  
+    >   (en Ubuntu concretamente)
+  
+  #### Reflexiones acerca de los casos reales.
+
+    > 
 
 3. **cuanto se puede tardar en hacer estas operaciones + problemas encontrados por el camino**
   
