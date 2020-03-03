@@ -1,9 +1,11 @@
 
+# Seminario Nº2: Uso de la web por personas con disfuncionalidad.
 
-1. Cómo se usa el ChromeVox + en qué métodos se basa
+***
 
+1. **Cómo se usa el ChromeVox + en qué métodos se basa**
 
-2. Experiencia disfuncional y problemas + comparación con la realidad + tipos de disfuncionalidad y qué herramientas usan
+2. **Experiencia disfuncional y problemas + comparación con la realidad + tipos de disfuncionalidad y qué herramientas usan**
 
    > sensación de impedimento, se ralentiza el uso, requiere de costumbre a la herramienta, a veces no se entiende lo que dice la voz,
    > movimiento poco intuitivo en la página con el teclado, malas traducciones.
@@ -21,7 +23,7 @@
    > - En el protal de servicios se queda en bucle sin bajar al selector del alumnado (FALLO enorme)
    
 
-3. cuanto se puede tardar en hacer estas operaciones + problemas encontrados por el camino
+3. **cuanto se puede tardar en hacer estas operaciones + problemas encontrados por el camino**
   
   
   - consultar calendario
@@ -49,8 +51,8 @@
   
   > 
 
-4. Más problemas de disfuncionalidad 
+4. **Más problemas de disfuncionalidad**
 
-5. conclusiones del experimento
+5. **conclusiones del experimento**
 
-6. conclusiones
+6. **conclusiones**
